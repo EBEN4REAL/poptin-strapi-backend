@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "poptins",
+  "info": {
+    "singularName": "poptin",
+    "pluralName": "poptins",
+    "displayName": "Poptin",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "headerText": {
+      "type": "text"
+    },
+    "footerText": {
+      "type": "text"
+    },
+    "popupBg": {
+      "type": "string"
+    }
+  }
+}

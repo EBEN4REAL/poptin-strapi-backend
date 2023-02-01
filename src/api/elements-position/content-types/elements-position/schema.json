@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "elements_positions",
+  "info": {
+    "singularName": "elements-position",
+    "pluralName": "elements-positions",
+    "displayName": "Elements Positions",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "poptinInput": {
+      "type": "json"
+    },
+    "poptinBtn": {
+      "type": "json"
+    },
+    "poptinStars": {
+      "type": "json"
+    }
+  }
+}
