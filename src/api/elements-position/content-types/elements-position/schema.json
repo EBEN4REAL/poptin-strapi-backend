@@ -20,6 +20,12 @@
     },
     "poptinStars": {
       "type": "json"
+    },
+    "headerText": {
+      "type": "json"
+    },
+    "footerText": {
+      "type": "json"
     }
   }
 }
